@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Arnold: Virtual Assistant",
+"productVersion": "0.1",
+"dataUrl": "ArnoldVirtualAssistant.data.unityweb",
+"wasmCodeUrl": "ArnoldVirtualAssistant.wasm.code.unityweb",
+"wasmFrameworkUrl": "ArnoldVirtualAssistant.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ArnoldVirtualAssistant.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
